@@ -19,6 +19,7 @@ export CPPFLAGS="-I/usr/local/opt/qt@5/include"
 3: Restart computer in recovery and run:
 ```
 csrutil disable
+spctl kext-consent add G43BCU2T37
 ```
 
 4: Reboot to macOS, open term and run:
