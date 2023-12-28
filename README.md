@@ -16,7 +16,7 @@ export CPPFLAGS="-I/usr/local/opt/qt@5/include"
 
 2: Download [ckb-next-v0.4.4](https://github.com/anizee/ckb-next-v0.4.4/raw/main/ckb-next_v0.4.4.dmg), and install
 
-3: Restart computer in recovery and run:
+3: Restart computer in recovery (CMD-R) and run:
 ```
 csrutil disable
 spctl kext-consent add G43BCU2T37
